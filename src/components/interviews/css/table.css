@@ -1,0 +1,20 @@
+
+/* table {table-layout:fixed} */
+.inetrview_list td, th {overflow:hidden; white-space:nowrap}
+
+
+.inetrview_list td:last-child,
+.inetrview_list th:last-child {
+    position: sticky;
+    right: 0;
+}
+
+.inetrview_list td:nth-last-child(2),
+.inetrview_list th:nth-last-child(2) {
+    position: sticky;
+    right: 401px;
+    z-index: 1;
+}
+
+
+

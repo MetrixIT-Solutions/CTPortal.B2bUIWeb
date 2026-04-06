@@ -1,0 +1,8 @@
+[
+  {"label": "Canada", "value": "Canada", "code": "CAN", "sCode": "CA", "mobCC": "+1"},
+  {"label": "India", "value": "India", "code": "IND", "sCode": "IN", "mobCC": "+91"},
+  {"label": "United States", "value": "United States of America", "code": "USA", "sCode": "US", "mobCC": "+1"},
+  {"label": "Bangladesh", "value": "Bangladesh", "code": "BGD", "sCode": "BD", "mobCC": "+880"},
+  {"label": "Nepal", "value": "Nepal", "code": "NPL", "sCode": "NP", "mobCC": "+977"},
+  {"label": "Bhutan", "value": "Bhutan", "code": "BTN", "sCode": "BT", "mobCC": "+975"}
+]

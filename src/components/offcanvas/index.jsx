@@ -1,0 +1,11 @@
+/**
+ * Copyright (C) KagVij Private Limited - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Ashok Shetty <kagvij.com@gmail.com>, Aug 2024
+ */
+
+import OffcanvasComponent from './OffcanvasComponent';
+import OffcanavsReviewComponent from './OffcanavsReviewComponent';
+
+export {OffcanvasComponent, OffcanavsReviewComponent};

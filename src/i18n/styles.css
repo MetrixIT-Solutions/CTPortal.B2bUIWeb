@@ -1,0 +1,30 @@
+/**
+ * Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by SkillworksIT <contact@skillworksit.com>, Aug 2024
+ */
+
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.lang-switch {
+  z-index: 1;
+}
+
+.lang-switch a {
+  margin-left: 20px;
+  color: #61dafb;
+}

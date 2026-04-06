@@ -1,0 +1,39 @@
+
+.popover-header {
+    font-size: 11px;
+}
+
+.popover-body {
+    padding: 0.5rem 0.8rem !important;
+    color: #212529;
+}
+
+.bs-popover-top {
+    margin-bottom: 0;
+}
+
+.password-rules ul{
+    margin: 0;
+    padding: 0 0 0 10px;
+}
+
+
+/* .info-btn {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    z-index: 9;
+} */
+
+.info-btn .btn {
+    padding: 0 7px;
+    line-height: 15px;
+    font-size: 10px;
+    height: 18px;
+    width: 19px;
+}
+
+.password-rules ul{
+    margin: 0 0 0 10px;
+    padding: 0;
+}
